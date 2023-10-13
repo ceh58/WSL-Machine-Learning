@@ -18,4 +18,4 @@ WSL event locations for the 2024 season: </br>
 #9 Cloudbreak, Fiji (August 20 -29)</br>
 </br>
 WSL Final: Lower Trestles, San Clemente, California, USA (September 6 - 14) </br>
-
+</br>
