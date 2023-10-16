@@ -19,4 +19,4 @@ WSL event locations for the 2024 season: </br>
 </br>
 WSL Final: Lower Trestles, San Clemente, California, USA (September 6 - 14) </br>
 </br>
-Version 2.4 is currently facing bugs in the web driver due to updates in the web browser and the Selenium package that are incompatible. 
+Version 2.5 pulls data from athletes on the 2023 tour. The next steps will involve joining event ranking data and pulling data from previous years so that we have sufficient data for the machine learning model to be built. 
